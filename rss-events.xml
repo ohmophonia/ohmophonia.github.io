@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="https://ohmophonia.com/rss-events.xml" rel="self" type="application/rss+xml" />
+		<title>Ohmophonia Events &amp; Gigs</title>
+		<link>https://ohmophonia.com/events/</link>
+		<description>Ohmophonia is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.</description>
+		<language>en-us</language>
+		<copyright>Copyright 2020 Ohmophonia</copyright>
+		<pubDate>Sat, 24 Oct 2020 00:28:38 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2020 00:28:38 GMT</lastBuildDate>
+		<generator>Ohmophonia.com Site Generator</generator>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<image>
+			<url>https://ohmophonia.com/media/app/ohmophonia-official-logo-2048.png</url>
+			<title>Ohmophonia Events &amp; Gigs</title>
+			<link>https://ohmophonia.com/events/</link>
+		</image>
+		<item>
+			<guid isPermaLink="true">https://ohmophonia.com/one-cool-event/</guid>
+			<title>Port Fish @ Glastonbury 2021</title>
+			<link>https://ohmophonia.com/one-cool-event/</link>
+			<description><![CDATA[ <p>Add some cool event teaser here.</p><figure><img src="https://ohmophonia.com/media/ohmophonia-banner.jpg" alt="Port Fish @ Glastonbury 2021" title="Port Fish @ Glastonbury 2021 teaser photo" /></figure><hr /><ul><li>Source:  <a href="https://ohmophonia.com/one-cool-event/" title="Port Fish @ Glastonbury 2021">https://ohmophonia.com/one-cool-event/</a></li><li>Event Details:  <a href="http://event.url" title="Event Details about Port Fish @ Glastonbury 2021">http://event.url</a></li><li>Buy Tickets:  <a href="http://tickets.url" title="Buy Tickets for Port Fish @ Glastonbury 2021">http://tickets.url</a></li></ul>
+ ]]></description>
+			<pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

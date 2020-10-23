@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ohmophonia.com/sitemap.xml

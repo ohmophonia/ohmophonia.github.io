@@ -1,0 +1,36 @@
+
+
+{
+	"short_name": "Ohmophonia",
+	"name": "Ohmophonia",
+	"description": "Ohmophonia is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.",
+	"categories": ["music", "record label"],
+	"lang": "en-US",
+	"icons": [
+		{
+			"src": "/media/app/ohmophonia-icon-180.png",
+			"type": "image/png",
+			"sizes": "180x180",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/ohmophonia-icon-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/media/app/ohmophonia-icon-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+	],
+	"scope": "https://ohmophonia.com/",
+	"start_url": "/?source=pwa",
+	"background_color": "#ffffff",
+	"theme_color": "#c53636",
+	"display": "standalone",
+	"orientation": "any"
+}
+
