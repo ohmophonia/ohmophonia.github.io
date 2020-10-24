@@ -7,8 +7,8 @@
 		<description>Ohmophonia is an independent record label based in Slovakia/Europe, specializing in electronic music of various styles such as ambient, chill-out, downtempo, and easy-listening.</description>
 		<language>en-us</language>
 		<copyright>Copyright 2020 Ohmophonia</copyright>
-		<pubDate>Thu, 30 Apr 2020 12:34:56 GMT</pubDate>
-		<lastBuildDate>Sat, 24 Oct 2020 01:18:33 GMT</lastBuildDate>
+		<pubDate>Sun, 25 Oct 2020 00:49:42 GMT</pubDate>
+		<lastBuildDate>Sun, 25 Oct 2020 00:49:42 GMT</lastBuildDate>
 		<generator>Ohmophonia.com Site Generator</generator>
 		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
 		<image>
@@ -16,13 +16,5 @@
 			<title>Ohmophonia</title>
 			<link>https://ohmophonia.com</link>
 		</image>
-		<item>
-			<guid isPermaLink="true">https://ohmophonia.com/first-news/</guid>
-			<title>Fun Is Always On My Mind</title>
-			<link>https://ohmophonia.com/first-news/</link>
-			<description></description>
-			<comments>https://ohmophonia.com#comments</comments>
-			<pubDate>Thu, 30 Apr 2020 12:34:56 GMT</pubDate>
-		</item>
 	</channel>
 </rss>
