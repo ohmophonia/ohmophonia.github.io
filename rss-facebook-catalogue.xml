@@ -17,25 +17,27 @@
 <g:price>4.99 EUR</g:price>
 <g:shipping>
 <g:country>EU</g:country>
-<g:service>Standard</g:service>
+<g:service>Digital Download</g:service>
 <g:price>0.00 EUR</g:price>
 </g:shipping>
 <g:shipping>
 <g:country>UK</g:country>
-<g:service>Standard</g:service>
+<g:service>Digital Download</g:service>
 <g:price>0.00 GBP</g:price>
 </g:shipping>
 <g:shipping>
 <g:country>US</g:country>
-<g:service>Standard</g:service>
+<g:service>Digital Download</g:service>
 <g:price>0.00 USD</g:price>
 </g:shipping>
+<g:shipping>
 <g:country>CA</g:country>
-<g:service>Standard</g:service>
+<g:service>Digital Download</g:service>
 <g:price>0.00 CAD</g:price>
 </g:shipping>
+<g:shipping>
 <g:country>AU</g:country>
-<g:service>Standard</g:service>
+<g:service>Digital Download</g:service>
 <g:price>0.00 AUD</g:price>
 </g:shipping>
 <g:google_product_category>Media &gt; Music &amp; Sound Recordings &gt; Digital Music Downloads</g:google_product_category>
