@@ -18,63 +18,11 @@
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/404/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/404/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/releases/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/releases/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/search/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/privacy/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/privacy/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
 		<loc>https://ohmophonia.com/artists/</loc>
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/amp/artists/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/sitemap/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/sitemap/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/events/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/events/</loc>
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
@@ -86,36 +34,64 @@
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
+		<loc>https://ohmophonia.com/events/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/events/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/releases/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/releases/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/search/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/privacy/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/privacy/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/sitemap/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/sitemap/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/404/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/404/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
 		<loc>https://ohmophonia.com/port-fish/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/ghizeh/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/port-fish/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/ghizeh/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/port-fish/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/ghizeh/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/empire-of-silence/</loc>
-		<lastmod>2020-10-27</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/spoken-ep/</loc>
-		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/amp/tag/ambient/</loc>
@@ -138,11 +114,27 @@
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/empire-of-silence/</loc>
+		<loc>https://ohmophonia.com/amp/empire-of-silence/</loc>
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/spoken-ep/</loc>
+		<loc>https://ohmophonia.com/amp/spoken-ep/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/port-fish/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/ghizeh/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/port-fish/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/ghizeh/</loc>
 		<lastmod>2020-10-27</lastmod>
 	</url>
 	<url>
@@ -163,6 +155,14 @@
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/tag/downtempo/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/empire-of-silence/</loc>
+		<lastmod>2020-10-27</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/spoken-ep/</loc>
 		<lastmod>2020-10-27</lastmod>
 	</url>
 </urlset>
