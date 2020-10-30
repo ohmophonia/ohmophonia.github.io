@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 	<url>
@@ -6,11 +5,11 @@
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/rss-events.xml</loc>
+		<loc>https://ohmophonia.com/rss.xml</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/rss.xml</loc>
+		<loc>https://ohmophonia.com/rss-events.xml</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
@@ -18,11 +17,27 @@
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/404/</loc>
+		<loc>https://ohmophonia.com/events/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/amp/404/</loc>
+		<loc>https://ohmophonia.com/amp/events/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/artists/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/artists/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/releases/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/releases/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
@@ -34,11 +49,23 @@
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/events/</loc>
+		<loc>https://ohmophonia.com/search/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/amp/events/</loc>
+		<loc>https://ohmophonia.com/404/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/404/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/sitemap/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/sitemap/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
@@ -58,40 +85,28 @@
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/releases/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/releases/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/search/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/sitemap/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/sitemap/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/artists/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/amp/artists/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
 		<loc>https://ohmophonia.com/port-fish/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/ghizeh/rss.xml</loc>
 		<lastmod>2020-10-23</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/port-fish/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/amp/ghizeh/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/port-fish/</loc>
+		<lastmod>2020-10-30</lastmod>
+	</url>
+	<url>
+		<loc>https://ohmophonia.com/ghizeh/</loc>
+		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/tag/ambient/</loc>
@@ -111,14 +126,6 @@
 	</url>
 	<url>
 		<loc>https://ohmophonia.com/tag/downtempo/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/empire-of-silence/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/spoken-ep/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
@@ -142,19 +149,11 @@
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/amp/port-fish/</loc>
+		<loc>https://ohmophonia.com/empire-of-silence/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
-		<loc>https://ohmophonia.com/amp/ghizeh/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/port-fish/</loc>
-		<lastmod>2020-10-30</lastmod>
-	</url>
-	<url>
-		<loc>https://ohmophonia.com/ghizeh/</loc>
+		<loc>https://ohmophonia.com/spoken-ep/</loc>
 		<lastmod>2020-10-30</lastmod>
 	</url>
 	<url>
