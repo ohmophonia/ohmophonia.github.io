@@ -1,0 +1,20 @@
+{
+	"isOn"            : true,
+	"appID"           : "275843893789155",
+	"pageID"          : "63166311968",
+	"comments" : {
+		"isOn"        : true,
+		"colorScheme" : "dark"
+	},
+	"chat" : {
+		"isOn"        : true,
+		"greetingIn"  : "Welcome to Port Fish!",
+		"greetingOut" : "Have a nice day!",
+		"dialogMode"  : "hide",
+		"dialogDelay" : "18"
+	},
+	"pixel" : {
+		"isOn"    : true,
+		"pixelID" : "404232407403272"
+	}
+}

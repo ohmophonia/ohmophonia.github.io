@@ -36,17 +36,24 @@ body {
 	color: var(--color-bodyText); background-color: var(--color-bodyBackground);
 	font-family: var(--font-family); font-style: var(--font-style); font-weight: var(--font-weight);
 }
-body a { color : var(--color-bodyLink) }
-body a:hover { color : var(--color-bodyHover) }
+body a { color: var(--color-bodyLink) }
+body a:hover { color: var(--color-bodyHover) }
+body hr { background-color: #eafff0 }
+body hr.alt { background-color: #38c040 }
+body hr.title { background-color: #008000 }
 header { color: var(--color-headerText); background-color: var(--color-headerBackground) }
 header a { color : var(--color-headerLink) }
 header a:hover { color : var(--color-headerHover) }
 footer, .footer { color: var(--color-footerText); background-color: var(--color-footerBackground) }
 footer a { color : var(--color-footerLink) }
 footer a:hover { color : var(--color-footerHover) }
+footer hr { background-color: #505460 }
+footer hr.alt { background-color: #fabc34 }
 .lfo-sidebar { color: var(--color-sidebarText); background-color: var(--color-sidebarBackground) }
 .lfo-sidebar a:not(.btn) { color : var(--color-sidebarLink) }
 .lfo-sidebar a:hover:not(.btn) { color : var(--color-sidebarHover) }
+.lfo-sidebar hr { background-color: #c0ccc0 }
+.lfo-sidebar hr.alt { background-color: #ffffff }
 
 /*  Utilities  */
 .full-window-height { min-height: 100vh; }
@@ -97,6 +104,7 @@ lfoseo, figcaption, .lfoseo { display: inline-block; width: var(--lfo-mobile-seo
 .lfo-bgcolor-dark      { background-color: var(--color-dark) }
 .lfo-bgcolor-white     { background-color: #ffffff }
 .lfo-bgcolor-black     { background-color: #000000 }
+.lfo-bgcolor-body      { background-color: var(--color-bodyBackground) }
 .lfo-bgcolor-sidebar   { background-color: var(--color-sidebarBackground) }
 
 .lfo-brightness-125 { filter: brightness(125%) }
@@ -145,32 +153,32 @@ lfoseo, figcaption, .lfoseo { display: inline-block; width: var(--lfo-mobile-seo
 .lfo-icon-favorite-on { background-image: url('/media/fa_svgs/solid/heart.svg') }
 .lfo-icon-favorite-off { background-image: url('/media/fa_svgs/regular/heart.svg') }
 /*  color to filters: https://codepen.io/sosuke/pen/Pjoqqp  */
-.lfo-icon-primary,   .lfo-icon-over-primary:hover   {filter: invert(32%) sepia(31%) saturate(5943%) hue-rotate(105deg) brightness(101%) contrast(103%)}
-.lfo-icon-secondary, .lfo-icon-over-secondary:hover {filter: invert(67%) sepia(27%) saturate(733%) hue-rotate(355deg) brightness(102%) contrast(95%)}
-.lfo-icon-light,     .lfo-icon-over-light:hover     {filter: invert(98%) sepia(1%) saturate(0%) hue-rotate(5deg) brightness(115%) contrast(100%)}
-.lfo-icon-dark,      .lfo-icon-over-dark:hover      {filter: invert(0%) sepia(98%) saturate(0%) hue-rotate(145deg) brightness(102%) contrast(100%)}
-.lfo-icon-white,     .lfo-icon-over-white:hover     {filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(167deg) brightness(106%) contrast(102%)}
-.lfo-icon-black,     .lfo-icon-over-black:hover     {filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%)}
+.lfo-icon-white, .lfo-icon-over-white:hover {filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(167deg) brightness(106%) contrast(102%)}
+.lfo-icon-black, .lfo-icon-over-black:hover {filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(324deg) brightness(96%) contrast(104%)}
 .lfo-icon-over-transform:hover { transform: scale(1.25) }
 
-.dark-mode {
-	background-color: black;
-	color: white
-}
-.dark-mode div.jumbotron {
-	background-color: var(--color-dark);
-}
-
+/*  Bootstrap  */
+.jumbotron { background-color: var(--color-sidebarBackground) }
+.border { border: 1px solid #eafff0!important; } 
+.dropdown-item:focus, .dropdown-item:hover { background-color: #eaaf5f }
 .dropdown:hover .dropdown-menu {
 	display: block;
 	margin-top: 0; /* remove the gap so it doesn't close */
 }
 
-h1 { text-shadow: 0px 2px 2px var(--color-white) }
-h2 { text-shadow: 0px 2px 2px var(--color-white) }
-h3 { text-shadow: 0px 1px 1px var(--color-white) }
+.lfo-icon-primary,   .lfo-icon-over-primary:hover   {filter: invert(32%) sepia(31%) saturate(5943%) hue-rotate(105deg) brightness(101%) contrast(103%)}
+.lfo-icon-secondary, .lfo-icon-over-secondary:hover {filter: invert(67%) sepia(27%) saturate(733%) hue-rotate(355deg) brightness(102%) contrast(95%)}
+.lfo-icon-light,     .lfo-icon-over-light:hover     {filter: invert(98%) sepia(1%) saturate(0%) hue-rotate(5deg) brightness(115%) contrast(100%)}
+.lfo-icon-dark,      .lfo-icon-over-dark:hover      {filter: invert(0%) sepia(98%) saturate(0%) hue-rotate(145deg) brightness(102%) contrast(100%)}
 
 a:hover { text-decoration: none }
+
+h1 { text-shadow: 0px 2px 2px var(--color-white) }
+/** h1 a:hover { color: var(--color-white); text-shadow: 0px 2px 2px var(--color-white) } **/
+h2 { text-shadow: 0px 2px 2px var(--color-white) }
+/** h2 a:hover { color: var(--color-white); text-shadow: 0px 2px 2px var(--color-white) } **/
+h3 { text-shadow: 0px 1px 1px var(--color-white) }
+/** h3 a:hover { color: var(--color-white); text-shadow: 0px 1px 1px var(--color-white) } **/
 
 .ohm-item-highlight { transition: transform .2s; }
 .ohm-item-highlight:hover { background-color: var(--color-sidebarBackground); transform: scale(1.05); }
@@ -235,21 +243,6 @@ div.fill img {
 }
 
 
-/*  Fotorama  */
-.fotorama__stage {
-	border-radius: 7px;
-	margin-bottom: 10px;
-	-webkit-box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.5);
-	-moz-box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.5);
-	box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.5);
-}
-.fotorama__thumb {
-	border-radius: 5px;
-}
-.fotorama__thumb-border {
-	border-radius: 5px;
-	border-color: var(--color-secondary)!important;}
-
 /*  Bootstrap  */
 .btn-primary {
 	background-color: var(--color-primary);
@@ -281,9 +274,6 @@ div.fill img {
 	background-color: rgba(0, 0, 0, 0);
 	font-size: 80%;
 }
-.dropdown-item:focus, .dropdown-item:hover {
-	background-color: var(--color-secondary);
-}
 .page-link {
 	color: var(--color-primary);
 }
@@ -299,13 +289,8 @@ div.fill img {
 	color: var(--color-dark);
 	background-color: var(--color-secondary);
 }
-.jumbotron {
-	background-color: var(--color-sidebarBackground);
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+	background-color: var(--color-primary);
 }
 
-/*  Fontawesome  */
-i.moodific-primary.fas, i.moodific-primary.fab { color: var(--color-primary); transition: transform .2s }
-i.moodific-primary.fas:hover, i.moodific-primary.fab:hover { color: var(--color-secondary); transform: scale(1.25) }
-i.moodific-secondary.fas, i.moodific-secondary.fab { color: var(--color-light); transition: transform .2s }
-i.moodific-secondary.fas:hover, i.moodific-secondary.fab:hover { color: var(--color-secondary); transform: scale(1.25) }
 

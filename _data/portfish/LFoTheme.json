@@ -1,0 +1,22 @@
+{
+	"colors" : {
+		"header"    : {"text" : "#ffffff", "background" : "#1f72bc", "link" : "#ffffff", "hover" : "#fabc34"},
+		"body"      : {"text" : "#c0c0c0", "background" : "#202430", "link" : "#fabc34", "hover" : "#ffffff", "separator" : "#505460", "separator_alt" : "#000000", "separator_title" : "#fabc34"},
+		"sidebar"   : {"text" : "#e0e0e0", "background" : "#404450", "link" : "#fabc34", "hover" : "#ffffff", "separator" : "#8088a0", "separator_alt" : "#000000"},
+		"footer"    : {"text" : "#f8f9fa", "background" : "#101420", "link" : "#fabc34", "hover" : "#ffffff", "separator" : "#505460", "separator_alt" : "#fabc34"},
+		"primary"   : "#fabc34",
+		"secondary" : "#1f72bc",
+		"light"     : "#f8f9fa",
+		"dark"      : "#343a3c",
+		"menu"      : "#fabc34"
+	},
+	"font" : {
+		"family" : "Trebuchet MS",
+		"family_alt" : "Play:wght@400;700",
+		"style"  : "normal",
+		"weight" : "100"
+	},
+	"bootstrap" : {
+		"mode" : "dark"
+	}
+}
