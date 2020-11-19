@@ -82,6 +82,7 @@
 			"_404_item"   : true,
 			"_home_item"  : 1,
 			"catalog_id"  : "OHM-00001-LP-PFM-EMPRE",
+			"ean"         : "4250618809052",
 			"type"        : "album",
 			"artist_uid"  : "portfish",
 			"title"       : "Empire Of Silence",
