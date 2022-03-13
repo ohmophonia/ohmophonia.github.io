@@ -1,10 +1,10 @@
 [
-	{"type" : "soundcloud",   "user" : "portfishmusic", "url" : "https://soundcloud.com/portfishmusic"},
-	{"type" : "youtube",      "user" : "portfishmusic", "url" : "https://www.youtube.com/user/portfishmusic?sub_confirmation=1"},
-	{"type" : "facebook",     "user" : "portfishmusic", "url" : "https://www.facebook.com/portfishmusic/"},
-	{"type" : "instagram",    "user" : "portfishmusic", "url" : "https://www.instagram.com/portfishmusic/"},
-	{"type" : "twitter",      "user" : "portfish",      "url" : "https://twitter.com/portfish"},
-	{"type" : "pinterest",    "user" : "portfishmusic", "url" : "https://www.pinterest.com/portfishmusic/"},
-	{"type" : "tumblr",       "user" : "portfishmusic", "url" : "https://portfishmusic.tumblr.com/"},
-	{"type" : "reverbnation", "user" : "portfishmusic", "url" : "https://www.reverbnation.com/portfishmusic"}
+	{"type" : "soundcloud",   "group" : "Social", "name" : "SoundCloud",   "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://soundcloud.com/portfishmusic"},
+	{"type" : "youtube",      "group" : "Social", "name" : "YouTube",      "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.youtube.com/user/portfishmusic?sub_confirmation=1"},
+	{"type" : "facebook",     "group" : "Social", "name" : "Facebook",     "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.facebook.com/portfishmusic/"},
+	{"type" : "instagram",    "group" : "Social", "name" : "Instagram",    "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.instagram.com/portfishmusic/"},
+	{"type" : "twitter",      "group" : "Social", "name" : "Twitter",      "user" : "portfish",      "visible" : ["info", "head", "home"], "url" : "https://twitter.com/portfish"},
+	{"type" : "pinterest",    "group" : "Social", "name" : "Pinterest",    "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.pinterest.com/portfishmusic/"},
+	{"type" : "tumblr",       "group" : "Social", "name" : "Tumblr",       "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://portfishmusic.tumblr.com/"},
+	{"type" : "reverbnation", "group" : "Social", "name" : "ReverbNation", "user" : "portfishmusic", "visible" : ["info", "head", "home"], "url" : "https://www.reverbnation.com/portfishmusic"}
 ]
