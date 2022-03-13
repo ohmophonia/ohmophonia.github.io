@@ -244,6 +244,15 @@ div.fill img {
 	min-height: 100%
 }
 
+.lfoPlayerRow .lfoPlayerIcon {
+	visibility: hidden;
+}
+.lfoPlayerRow:hover {
+	color: var(--color-primary);
+}
+.lfoPlayerRow:hover .lfoPlayerIcon {
+	visibility: visible;
+}
 
 /*  Bootstrap  */
 .btn-primary {
